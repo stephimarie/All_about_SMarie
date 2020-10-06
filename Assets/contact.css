@@ -1,6 +1,6 @@
 body {
     background-color: rgb(130, 185, 211);
-    font-family: 'Kaushan Script', cursive;
+    font-family: 'Kaushan Script', Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #card-title {
