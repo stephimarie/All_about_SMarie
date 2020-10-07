@@ -5,7 +5,7 @@ body {
 }
 
 #card-title {
-    font-size: 50px;
+    font-size: 45px;
     font-weight: bold;
     color: rgb(48, 165, 165);
 
@@ -15,4 +15,13 @@ body {
     color: rgb(48, 165, 165);
     font-weight: bold;
     font-size: 30px;
+}
+/* This is not working */
+footer {
+    color: rgb(48, 165, 165);
+}
+
+/* This is not working */
+.nav-link {
+    float:right;
 }
