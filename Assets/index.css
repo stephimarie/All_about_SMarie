@@ -2,3 +2,7 @@ body {
     background-color: cadetblue;
     font-family: 'Kaushan Script', cursive;
 }
+
+h5 {
+    font-size: 40px;
+}
