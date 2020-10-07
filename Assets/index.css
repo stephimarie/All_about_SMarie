@@ -4,6 +4,13 @@ body {
     background: url(../Images/Flowerspainting.png);
 }
 
+#card-title {
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(130, 185, 211);
+
+}
+
 h5 {
     font-size: 40px;
 }
