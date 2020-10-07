@@ -11,3 +11,8 @@ body {
 
 }
 
+#navbar-brand {
+    color: rgb(48, 165, 165);
+    font-weight: bold;
+    font-size: 30px;
+}
