@@ -1,16 +1,13 @@
 body {
-    background-color: cadetblue;
-    font-family: 'Kaushan Script', cursive;
-    background: url(../Images/Flowerspainting.png);
+    background-color: rgb(228, 231, 231);
+    font-family: 'Times New Roman', Times, serif;
+    
 }
 
-#card-title {
-    font-size: 40px;
+#card-title , h5{
+    font-size: 50px;
     font-weight: bold;
-    color: rgb(130, 185, 211);
+    color: rgb(48, 165, 165);
 
 }
 
-h5 {
-    font-size: 40px;
-}
