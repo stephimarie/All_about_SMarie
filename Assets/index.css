@@ -18,19 +18,19 @@ body {
 }
 
 aside {
-    background-color:rgb(228, 231, 231));
+    background-color:rgb(228, 231, 231);
     width: 1440px;
     height: 970px;
     padding: 50px;
-    border: 1px solidcolor grey;
+    border: 1px solid grey;
   }
 
 main {
-    background-color: rgb(228, 231, 231)
-    width: 1000px;
+    background-color: rgb(228, 231, 231);
+    width: 1450px;
     height: 670px;
-    padding: 50px;
-    border: 1px solid white;
+    padding: 40px;
+    border: 1px solid rgb(228, 231, 231);
   }
 
 footer {
