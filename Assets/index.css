@@ -11,17 +11,17 @@ body {
 
 }
 
+#box {
+    background-color: white
+    width: 400px;
+    height: 440px;
+    margin: 10px 30px 20px 50px;
+    padding: 25px 10px 30px 20px;
+    border-width: 22px;
+}
+
 #navbar-brand {
     color: rgb(48, 165, 165);
     font-weight: bold;
     font-size: 30px;
-}
-/* This is not working */
-footer {
-    color: rgb(48, 165, 165);
-}
-
-/* This is not working */
-.nav-link {
-    float:right;
 }
