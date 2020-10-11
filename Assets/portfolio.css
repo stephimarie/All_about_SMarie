@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(228, 231, 231);
+    background-color: rgb(221, 129, 113);
     font-family: 'Open Sans Condensed', sans-serif;
     
 }
@@ -23,10 +23,10 @@ body {
   margin-left: 85%;
 }
 aside {
-    background-color:rgb(228, 231, 231);
-    width: 1440px;
-    height: 970px;
-    padding: 50px;
+    background-color: rgb(221, 129, 113);
+    width: 1300px;
+    height: 900px;
+    padding: 40px;
   }
 
 footer {
