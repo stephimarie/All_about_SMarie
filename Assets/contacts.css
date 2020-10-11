@@ -2,7 +2,7 @@ body {
     background-color: rgb(228, 231, 231);
     font-family: 'Handlee', cursive;
     font-family: 'Open Sans Condensed', sans-serif;
-    
+   
     
 }
 
@@ -22,6 +22,7 @@ body {
     font-size: 35px;
     font-family: 'Great Vibes', cursive;
 }
+
 .links{
   margin-left: 85%;
 }
@@ -39,4 +40,3 @@ footer {
     background-color: gray;
     border: 1px solid gray;
   }
-  

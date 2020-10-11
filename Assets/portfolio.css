@@ -1,8 +1,6 @@
 body {
     background-color: rgb(228, 231, 231);
-    font-family: 'Handlee', cursive;
     font-family: 'Open Sans Condensed', sans-serif;
-    
     
 }
 
@@ -25,18 +23,14 @@ body {
 .links{
   margin-left: 85%;
 }
-
-
-main {
-    background-color: rgb(228, 231, 231);
-    width: 1450px;
-    height: 670px;
-    padding: 40px;
-    border: 1px solid rgb(228, 231, 231);
+aside {
+    background-color:rgb(228, 231, 231);
+    width: 1440px;
+    height: 970px;
+    padding: 50px;
   }
 
 footer {
     background-color: gray;
     border: 1px solid gray;
   }
-  
