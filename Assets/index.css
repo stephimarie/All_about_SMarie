@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(228, 231, 231);
+    /* background-color: rgb(93, 145, 145); */
     font-family: 'Handlee', cursive;
     font-family: 'Open Sans Condensed', sans-serif;
     
@@ -28,11 +28,12 @@ body {
 
 
 main {
-    background-color: rgb(228, 231, 231);
+    background-color: rgb(100, 172, 172);
     width: 1450px;
     height: 670px;
     padding: 40px;
     border: 1px solid rgb(228, 231, 231);
+    
   }
 
 footer {
