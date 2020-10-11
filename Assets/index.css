@@ -2,6 +2,7 @@ body {
     /* background-color: rgb(93, 145, 145); */
     font-family: 'Handlee', cursive;
     font-family: 'Open Sans Condensed', sans-serif;
+    background-image: url("Images/beach.index.jpeg");
 
 }
 
@@ -32,6 +33,7 @@ main {
     height: 670px;
     padding: 40px;
     border-bottom: 15px solid rgb(131, 180, 180);
+    background-image: url("Images/beach.index.jpeg");
     
   }
 
