@@ -9,15 +9,15 @@ body {
 #card-title {
     font-size: 45px;
     font-weight: bold;
-    color: rgb(48, 165, 165);
     border-bottom: solid lightgray 1px;
     border-right-width: 90px;
     font-family: 'Shadows Into Light', cursive;
+    color: rgb(196, 54, 54)
 
 }
 
 #navbar-brand {
-    color: rgb(48, 165, 165);
+    color: rgb(196, 54, 54);
     font-weight: bold;
     font-size: 35px;
     font-family: 'Great Vibes', cursive;
