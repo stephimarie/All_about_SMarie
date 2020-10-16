@@ -1,17 +1,11 @@
 # HW_2
-homework week 2 
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+Responsive Portfolio
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+This is my portfolio About Me, Stephanie Marie. 
 
+I have created the following portfolio using Bootstrap CSS Framework in the following files: `index.html`, `portfolio.html` and `contact.html`.
 
-## Directions
-
-First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
-
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
-
-* Using Bootstrap, develop your portfolio site with the following items:
+* I have used Bootstrap, and develop my own portfolio site with the following items:
 
    * A navbar
 
@@ -19,17 +13,27 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
    * Responsive images
 
-* The Bootstrap portfolio should minimize the use of media queries.
+   * All my links work.
 
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
+* Used semantic html.
 
-### Hints
+* My personalized information is included; bio, name, images, links to my personal email, etc.
 
-* Use Bootstrap's grid system (containers, rows, and columns).
+*  I've utilize Bootstrap components and grid system. (containers, rows, and columns).
 
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
+* The Bootstrap portfolio minimize and uses the media queries.
 
-* Use an HTML validation service to ensure that each page has valid HTML.
+
+
+
+
+
+
+
+
+   
+
+
 
 ### Minimum Requirements
 
@@ -50,6 +54,11 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 * Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
 * Must properly utilize Bootstrap components and grid system.
+
+* Use an HTML validation service to ensure that each page has valid HTML.
+
+* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
+
 
 ### Bonus
 
