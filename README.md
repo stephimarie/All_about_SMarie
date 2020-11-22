@@ -1,4 +1,4 @@
-# HW_2
+# Personal Portfolio
 Responsive Portfolio
 
 This is my portfolio About Me, Stephanie Marie. 
