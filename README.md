@@ -19,7 +19,7 @@ All about SMarie was developed for the purpose of showcase a little about me, Co
 * [Bootstrap](https://bootstrap.com//)
 
 ## Links
-[PortfolioMe](https://stephimarie.github.io/PortfolioMe/.)
+[All about SMarie](https://stephimarie.github.io/All_about_SMarie/.)
 
 
 
