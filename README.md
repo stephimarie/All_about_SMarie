@@ -18,7 +18,7 @@ All about SMarie was developed for the purpose of showcase a little about me, Co
 ## Resource preferences:
 * [Bootstrap](https://bootstrap.com//)
 
-## Links
+## Github Links
 [All about SMarie](https://stephimarie.github.io/All_about_SMarie/.)
 
 
